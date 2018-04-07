@@ -11,8 +11,8 @@ Simple http media server software
 * 视频编码表示：
    * ;vc=264|265|vp9
 * 音频编码编码表示：
-   * ;ac=aac|mp3
+   * ;ac=aac|mp3
 * 视频帧率表示：
-   * ;vfr=29.97
+   * ;vfr=29.97
 * 表示视频图像组（Group of pictures）开始：
    * ;gop
